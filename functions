@@ -1,0 +1,7 @@
+const car = {
+  brand: 'Ford',
+  model: 'Feista',
+  start: function(){
+    console.log('Starting....')
+  },
+}
